@@ -8,7 +8,7 @@ export default class Card extends Component {
                 <div className="card-body">
                     <br></br>
                     <br></br>
-                    <h5>Vizmo</h5>
+                    <h5>card component</h5>
                     <br></br>
                 </div>
             </div>
